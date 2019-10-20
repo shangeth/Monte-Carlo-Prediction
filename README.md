@@ -31,4 +31,13 @@ http://incompleteideas.net/book/the-book-2nd.html
 
 ## Monte Carlo methods
 - ### Control after all episodes(random action)
-    ![](images/1.)
+    ![](images/1.png)
+
+- ### MC Greedy Policy Control after each episode
+    ![](images/2.png)
+
+- ### MC epsilon-Greedy Policy Control after each episode
+    ![](images/3.png)
+
+- ### MC epsilon-Greedy Policy Control after each episode with constant alpha incremental mean
+    ![](images/4.png)
